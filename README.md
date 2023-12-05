@@ -1,1 +1,2 @@
 # data-collection-challenge
+In this repository, you will find the data collection in part 1, and the analysis of the data collection in part 2.  I couldn't figure out how to calculate the number of terrestrial days in a Martian year, but from the data, it was clear how many terrestrial years are in one Martian year, around almost 2 years.  According to NASA, a Martian year is 687 days, which is visible in the last graph in part 2.
